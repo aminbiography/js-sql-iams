@@ -494,7 +494,7 @@ logSecurityEvent("LOGIN_FAILURE", { username: "alice", ip: "45.33.32.156" });
 * Role-based access control (RBAC) and permission mapping
 * Audit reports (who has access, when it changed, who approved)
 * Detect risky access (admin roles, dormant accounts, privilege creep)
-* Integrations with IdPs (Okta, Azure AD, Keycloak) via APIs
+* Integrations with IdPs (Google Workspace, Azure AD, Okta, Keycloak) via APIs
 * Access request workflows and approvals
 
 ---
