@@ -1,7 +1,7 @@
 Live URL:  https://aminbiography.github.io/js-sql-iams/
  
 ---    
-    
+     
 # JS + SQL for IAMS  
 
 This repository documents **essential JavaScript and SQL skills** used in **Identity and Access Management Systems (IAMS)**, including automation, integrations, access governance, auditing, and reporting.
